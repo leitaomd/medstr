@@ -1,0 +1,2 @@
+# medstr
+Medicine on Nostr
